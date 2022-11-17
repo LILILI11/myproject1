@@ -22,6 +22,6 @@ urlpatterns = [
 ]
 
 #1) 127.0.0.1/polls/ url이 들어왔으면 이 url을 파싱해서 (url 파일에서 요청한 주소를 잘게 나누어 주는게 파싱)
-#polls라는 해당 path를 잡아내고 polls앱 url로 연결 시켜주고
+#polls라는 해당 path를 잡아내고 polls 앱(기능들의 모임) url로 연결 시켜주고
 
 #다음 -->polls/urls.py/
